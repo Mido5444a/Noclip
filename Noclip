@@ -213,7 +213,7 @@ end)
 
 wait(0.2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "Subscribe For More Gui!"; -- the title 
-Text = "Subscribe To Balligusapo YT"; -- what the text says 
+Title = "Made by xet ♪"; -- the title 
+Text = "Discord:https://discord.gg/BEzUSzqJGE"; -- what the text says 
 Duration = 5; -- how long the notification should in secounds
 })
